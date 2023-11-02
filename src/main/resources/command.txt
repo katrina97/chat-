@@ -1,0 +1,11 @@
+jpackage --name YourAppName \
+         --input path/to/your/jar \
+         --main-jar YourMainJarFile.jar \
+         --main-class YourMainClass \
+         --icon path/to/your/icon.icns \
+         --dest /
+
+jpackage --name YourAppName \
+         --input target \
+         --main-jar server-1.0-SNAPSHOT.jar \
+         --main-class server/Server

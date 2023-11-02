@@ -1,0 +1,15 @@
+client/ClientGuiController.class
+server/Server$Handler.class
+server/Message.class
+server/Connection.class
+server/Server.class
+client/ClientGuiView.class
+server/MessageType.class
+client/BotClient.class
+client/Client$SocketThread.class
+client/ClientGuiView$1.class
+server/ConsoleHelper.class
+client/Client.class
+client/ClientGuiModel.class
+client/BotClient$BotSocketThread.class
+client/ClientGuiController$GuiSocketThread.class
